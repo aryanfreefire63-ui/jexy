@@ -1,16 +1,1 @@
-[
-  {
-    "type": "WITHDRAW",
-    "detail": "AGENT SALARY",
-    "time": "2025-11-09 07:27:00",
-    "balance": 12222,
-    "remarks": ""
-  },
-  {
-    "type": "AGENT SALARY",
-    "detail": "22",
-    "time": "2025-11-12 07:18:00",
-    "balance": 22,
-    "remarks": ""
-  }
-]
+[]
