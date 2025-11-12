@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-04 07:04:00",
+    "balance": 8000,
+    "remarks": "LOYAL AGENT"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-11-12 08:22:00",
