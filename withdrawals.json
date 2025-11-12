@@ -1,0 +1,11 @@
+[
+  {
+    "type": "Withdraw",
+    "detail": "BANK CARD",
+    "time": "2025-11-12 13:17",
+    "balance": 333,
+    "order": "66",
+    "status": "Completed",
+    "remarks": ""
+  }
+]
