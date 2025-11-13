@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-13 11:37:00",
+    "balance": 21500,
+    "remarks": "DIRECT WIDHRAW"
+  },
+  {
     "type": "COMMISON",
     "detail": "44",
     "time": "2025-11-12 10:27:00",
