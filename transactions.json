@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-15 11:30:00",
+    "balance": 26000,
+    "remarks": "FIX SALARY"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WIDHRAW",
     "time": "2025-11-14 13:00:00",
