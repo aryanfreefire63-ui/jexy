@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-21 13:06:00",
+    "balance": 36598,
+    "remarks": ""
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "ADDS FUNDS",
     "time": "2025-11-21 13:00:00",
