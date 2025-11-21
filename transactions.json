@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "ADDS FUNDS",
+    "time": "2025-11-21 13:00:00",
+    "balance": 10000,
+    "remarks": "ADDS FUNDS FOR 2 DAYS 137948"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-11-21 12:46:00",
