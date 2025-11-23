@@ -1,6 +1,15 @@
 [
   {
     "type": "Withdraw",
+    "detail": "BANK CARD",
+    "time": "2025-11-23 15:05",
+    "balance": 33246,
+    "order": "WD2025082078926623W",
+    "status": "Completed",
+    "remarks": ""
+  },
+  {
+    "type": "Withdraw",
     "detail": "ARPay",
     "time": "2025-11-23 15:13",
     "balance": 5000,
