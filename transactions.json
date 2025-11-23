@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-23 10:22:00",
+    "balance": 820,
+    "remarks": "AGENT BONUS"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2025-11-23 15:13:00",
