@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "ADDS FUND",
+    "time": "2025-11-23 14:03:00",
+    "balance": 10000,
+    "remarks": "137948 ADDS FUND FOR 2 DAYS"
+  },
+  {
     "type": "AGENT COMMISON",
     "detail": "AGENT COMISSON",
     "time": "2025-11-23 02:00:00",
