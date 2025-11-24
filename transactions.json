@@ -1,6 +1,13 @@
 [
   {
     "type": "AGENT BONUS",
+    "detail": "DAILY ACTIVITY",
+    "time": "2025-11-24 16:40:00",
+    "balance": 5600,
+    "remarks": "137948 ACTIVITY"
+  },
+  {
+    "type": "AGENT BONUS",
     "detail": "AGENT BONUS",
     "time": "2025-11-24 16:30:00",
     "balance": 8000,
