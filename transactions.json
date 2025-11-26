@@ -1,6 +1,6 @@
 [
   {
-    "type": "AGENT COMMISON",
+    "type": "AGENT COMMISSION",
     "detail": "AGENT COMMISSION",
     "time": "2025-11-26 01:00:00",
     "balance": 5103,
@@ -28,8 +28,8 @@
     "remarks": "137948 HEAD AGENT SALARY"
   },
   {
-    "type": "AGENT COMMISON",
-    "detail": "AGENT COMMISON",
+    "type": "AGENT COMMISSION",
+    "detail": "AGENT COMMISSION",
     "time": "2025-11-25 01:00:00",
     "balance": 4864,
     "remarks": ""
@@ -70,8 +70,8 @@
     "remarks": "137948 HEAD AGENT SALARY"
   },
   {
-    "type": "AGENT COMMISON",
-    "detail": "AGENT COMMISON",
+    "type": "AGENT COMMISSION",
+    "detail": "AGENT COMMISSION",
     "time": "2025-11-24 01:10:00",
     "balance": 3673,
     "remarks": ""
@@ -105,8 +105,8 @@
     "remarks": "137948 ADDS FUND FOR 2 DAYS"
   },
   {
-    "type": "AGENT COMMISON",
-    "detail": "AGENT COMISSON",
+    "type": "AGENT COMMISSION",
+    "detail": "AGENT COMMISSION",
     "time": "2025-11-23 02:00:00",
     "balance": 3246,
     "remarks": ""
