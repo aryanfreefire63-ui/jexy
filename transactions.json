@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2025-11-26 17:30:00",
+    "balance": 8500,
+    "remarks": "META ADDS 137948"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2025-11-26 17:00:00",
