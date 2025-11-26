@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-26 16:00:00",
+    "balance": 16500,
+    "remarks": "137948 HEAD AGENT SALARY"
+  },
+  {
     "type": "AGENT COMMISSION",
     "detail": "AGENT COMMISSION",
     "time": "2025-11-26 01:00:00",
