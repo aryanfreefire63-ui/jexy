@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2025-11-27 21:00:00",
+    "balance": 5000,
+    "remarks": "FIX ADDS FUNDS"
+  },
+  {
     "type": "INVITE BONUS",
     "detail": "INVITE BONUS",
     "time": "2025-11-27 20:30:00",
