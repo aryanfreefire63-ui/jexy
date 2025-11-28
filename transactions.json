@@ -1,5 +1,12 @@
 [
   {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2025-11-28 17:10:00",
+    "balance": 3100,
+    "remarks": "INVITE BONUS"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-11-28 17:00:00",
