@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-28 18:00:00",
+    "balance": 10800,
+    "remarks": "REMAINING SALARY"
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "META ADDS",
     "time": "2025-11-28 17:46:00",
