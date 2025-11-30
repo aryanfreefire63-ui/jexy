@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-11-30 16:40:00",
+    "balance": 5000,
+    "remarks": "ADDS"
+  },
+  {
     "type": "AGENT COMMISON",
     "detail": "AGENT COMMISSION",
     "time": "2025-11-30 01:00:00",
