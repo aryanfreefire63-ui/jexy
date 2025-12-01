@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-01 20:07:00",
+    "balance": 20000,
+    "remarks": ""
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "META ADDS",
     "time": "2025-12-01 17:12:00",
