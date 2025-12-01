@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2025-12-01 17:12:00",
+    "balance": 5000,
+    "remarks": "ADDS"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "INVITE WHEEL REWARD",
     "time": "2025-12-01 21:12:00",
