@@ -2,6 +2,15 @@
   {
     "type": "Withdraw",
     "detail": "USDT",
+    "time": "2025-12-02 21:30",
+    "balance": 18000,
+    "order": "WD2025082038428428C",
+    "status": "Completed",
+    "remarks": ""
+  },
+  {
+    "type": "Withdraw",
+    "detail": "USDT",
     "time": "2025-12-01 20:07",
     "balance": 20000,
     "order": "WD2025082078926283D",
