@@ -1,5 +1,12 @@
 [
   {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-12-03 17:10:00",
+    "balance": 901,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-12-03 16:59:00",
