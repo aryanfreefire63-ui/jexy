@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-04 20:43:00",
+    "balance": 16000,
+    "remarks": ""
+  },
+  {
     "type": "ONE-CLICK REBATE",
     "detail": "ONE CLICK REBATE",
     "time": "2025-12-04 13:36:00",
