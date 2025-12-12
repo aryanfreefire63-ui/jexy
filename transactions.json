@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-12 01:00:00",
+    "balance": 4219,
+    "remarks": ""
+  },
+  {
     "type": "RED ENVELOPE",
     "detail": "RED ENVELOPE",
     "time": "2025-12-10 19:26:00",
