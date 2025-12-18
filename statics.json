@@ -878,20 +878,20 @@
     "date": "2025-12-14",
     "stats": {
       "All": {
-        "depositNumber": 701,
-        "depositAmount": 793907,
-        "numBettors": 4935,
-        "totalBet": 4187253.89,
-        "numFirstDeposit": 368,
-        "firstDepositAmount": 184238
+        "depositNumber": 432,
+        "depositAmount": 575236,
+        "numBettors": 1001,
+        "totalBet": 2684236.49,
+        "numFirstDeposit": 138,
+        "firstDepositAmount": 90123
       },
       "Tier 1": {
-        "depositNumber": 258,
-        "depositAmount": 192583,
-        "numBettors": 927,
-        "totalBet": 701234.64,
-        "numFirstDeposit": 171,
-        "firstDepositAmount": 59823
+        "depositNumber": 167,
+        "depositAmount": 193245,
+        "numBettors": 379,
+        "totalBet": 452357.12,
+        "numFirstDeposit": 97,
+        "firstDepositAmount": 47258
       }
     },
     "uids": {
