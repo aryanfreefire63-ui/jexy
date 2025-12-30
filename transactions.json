@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-29 17:30:00",
+    "balance": 15000,
+    "remarks": "ADS FOR 2 DAYS"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-12-29 17:26:00",
