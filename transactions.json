@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-30 15:33:00",
+    "balance": 20000,
+    "remarks": "INSTAGRAM REELS PROMOTION"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2025-12-30 17:48:00",
