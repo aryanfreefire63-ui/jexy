@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2026-01-15 17:54:00",
+    "balance": 10000,
+    "remarks": "Meta Ads"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2026-01-15 18:42:00",
