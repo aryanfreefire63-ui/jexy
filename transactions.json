@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2026-01-18 17:24:00",
+    "balance": 10000,
+    "remarks": ""
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2026-01-18 17:08:00",
