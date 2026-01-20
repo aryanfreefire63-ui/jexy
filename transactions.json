@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2026-01-18 18:06:00",
+    "balance": 5000,
+    "remarks": "ADS"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-01-18 17:24:00",
