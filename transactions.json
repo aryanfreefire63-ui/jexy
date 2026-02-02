@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2026-01-31 22:46:00",
+    "balance": 6500,
+    "remarks": ""
+  },
+  {
     "type": "INVITE BONUS",
     "detail": "INVITE BONUS",
     "time": "2026-01-31 19:45:00",
