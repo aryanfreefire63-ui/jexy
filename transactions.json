@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2026-02-16 01:00:00",
+    "balance": 3584,
+    "remarks": ""
+  },
+  {
     "type": "ONE-CLICK REBATE",
     "detail": "ONE CLICK REBATE",
     "time": "2026-02-17 20:12:00",
