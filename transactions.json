@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2026-02-16 17:15:00",
+    "balance": 5000,
+    "remarks": "TELEGRAM ADS"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-02-16 16:29:00",
