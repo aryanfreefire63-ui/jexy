@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2026-02-18 16:32:00",
+    "balance": 5000,
+    "remarks": "ADDS FUNDS"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "AGENT SALARY",
     "time": "2026-02-18 16:22:00",
