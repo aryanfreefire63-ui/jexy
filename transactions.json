@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2026-02-15 23:17:00",
+    "balance": 10584,
+    "remarks": ""
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "INVITE WHEEL REWARD",
     "time": "2026-02-15 17:18:00",
